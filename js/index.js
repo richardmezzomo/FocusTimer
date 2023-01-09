@@ -87,7 +87,7 @@ buttonSet.addEventListener('click', function () {
     return
   }
 
-  newMinutes = minutes
+  minutes = newMinutes
   
   updateTimerDisplay(minutes, 0)
 })

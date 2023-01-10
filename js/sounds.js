@@ -12,7 +12,7 @@ export default function() {
   }
 
   function bgAudioStart() {
-
+    bgAudio.play()
   }
 
   return {
